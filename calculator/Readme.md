@@ -26,7 +26,7 @@
 
 2. 程序设计截图
 
-   ![](.\image\calculatordesign.png)
+   ![](./image/calculatordesign.png)
 
 ## 三、实验结果
 
