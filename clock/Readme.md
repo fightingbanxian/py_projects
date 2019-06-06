@@ -40,7 +40,7 @@
 
 UVA提权申请界面
 
-![](.\image\211.png)
+![](./image/211.png)
 
 ![](.\image\212.png)
 
