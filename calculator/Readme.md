@@ -36,19 +36,19 @@
 
 鼠标在按键上停留会有相应的色变
 
-![](.\image\11.png)
+![](./image/11.png)
 
 弧度制与角度制的转换
 
-![](.\image\121.png)
+![](./image/121.png)
 
-![](.\image\122.png)
+![](./image/122.png)
 
 三角函数与双曲函数的转化
 
-![](.\image\131.png)
+![](./image/131.png)
 
-![](.\image\132.png)
+![](./image/132.png)
 
 
 
